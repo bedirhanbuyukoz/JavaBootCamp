@@ -1,1 +1,1 @@
-# JavaBootCamp
+Java & React Bootcamp (https://kodlama.io/)

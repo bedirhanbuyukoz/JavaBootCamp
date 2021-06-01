@@ -1,0 +1,20 @@
+Java' da veri tipleri 3' e ayrılır.
+1) İlkel Veri Tipleri:
+-Tam Sayılar
+ * byte-> -128 ve 127 arasında değerler alır. (8 bit)
+ * short-> -32768 ve 32767 arasında değerler alır. (16 bit)
+ * int-> Orta uzunluktaki sayıları tutmak için kullanılır. En fazla kullanılan veri tipidir. (32 bit)
+ * long-> Çok uzun sayıları tutmak için kullanılır. (64 bit)
+-Ondalıklı Sayılar
+ * float-> Bu tip virgülden sonra 7 haneye kadar yeterli duyarlılıktadır. (Tek duyarlı — 32 bit)
+ * double-> Bu tip virgülden sonra 17 haneye kadar yeterli duyarlılıktadır. (Çift duyarlı — 64 bit)
+-Karakterler
+ * char-> Javada karakterleri temsil eder. 16 bit yer kaplar.
+-Mantıksal Tipler
+ * boolean-> Bu tip sadece True-False değerini alabilir.
+2) Referans Tipleri:
+-Class
+-Array
+-Interface
+3) Null Tip:
+-Null-> Herhangi bir değere sahip olmama durumuna verilen isimdir

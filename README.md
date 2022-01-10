@@ -1,4 +1,4 @@
-Java & React Bootcamp (https://kodlama.io/) 
+Java & React Enterprise Bootcamp (https://kodlama.io/) 
 
 Lectures and Homework
 
